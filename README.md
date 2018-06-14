@@ -1,4 +1,1 @@
-numpy
-scipy
-matplotlib
-scikit-learn
+# numpy, scipy, matplotlib, scikit-learn
