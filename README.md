@@ -1,4 +1,4 @@
-numpy /n
-scipy /n
-matplotlib /n
-scikit-learn /n
+numpy
+scipy
+matplotlib
+scikit-learn
